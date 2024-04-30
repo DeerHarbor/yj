@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-  - title: PhD Student
+      - title: PhD Student
     company: King’s College London
     company_url: ''
     company_logo: kcl
@@ -75,7 +75,7 @@ sections:
         * Major: Forensic and Neurodevelopmental Sciences
         * Supervisor: [Professor Andre Strydom](https://www.kcl.ac.uk/people/professor-andre-strydom), [Doctor Rory Sheehan](https://www.kcl.ac.uk/people/rory-sheehan)
 
-  - title: Graduate Teaching Assistant
+        - title: Graduate Teaching Assistant
     company: King’s College London
     company_url: ''
     company_logo: kcl
@@ -86,7 +86,7 @@ sections:
         Responsibilities include:
         * Course name: Introduction to Applied Statistical Methods 2023-2024 [MSc Addictions]
     
-  - title: Research Assistant 
+     - title: Research Assistant 
     company: Shenzhen Bay Laboratory 
     company_url: 'https://www.szbl.ac.cn/'
     company_logo: org-lab
@@ -101,7 +101,7 @@ sections:
         * Cell experiments
         * Supervisor: [Prof. Tengfei Guo](http://guotf-lab.szbl.ac.cn/)
 
-  - title: Master Student
+       - title: Master Student
     company: Queen Mary University of London 
     company_url: ''
     company_logo: QMUL
@@ -113,7 +113,7 @@ sections:
 
         * Major: Mental Health: Psychological Therapies
 
-  - title: Professor assistant 
+      - title: Professor assistant 
     company: The First Affiliated Hospital of University of South China 
     company_url: ''
     company_logo: org-x
@@ -128,7 +128,7 @@ sections:
         * Medicine instruction
         * Medical records
     
-  - title: Master Student
+    - title: Master Student
     company: University of Aberdeen 
     company_url: ''
     company_logo: abd
@@ -140,7 +140,7 @@ sections:
 
         * Major: Psychological Studies
        
-  - title: Intern 
+   - title: Intern 
     company: Hengjiakang Mental Rehabilitation Hospital
     company_url: ''
     company_logo: org-a
@@ -154,6 +154,7 @@ sections:
         * Daily psychological counselling
     design:
       columns: '2'
+    
   - block: collection
     id: featured
     content:
